@@ -1,1 +1,1 @@
-# British_Airways_DS_Virtual-Internship
+# British Airways DS Virtual Internship Program
