@@ -12,7 +12,7 @@ For British Airways Reviews Dataset, please refer this link: https://www.airline
 - Prepared a powerpoint representation to highlight our insights and analysis.
 
 ## Task 2: Predicting customer's buying behaviour 
-- Performed exploratory data analysis and data cleaning to understand the behaviour of 'customer_booking' dataset
+- Performed exploratory data analysis and data cleaning to understand the behaviour of 'customer_booking' dataset.
 - Performed feature selection using Random Forest and L2-regularization (Ridge) method to check relevant features in the dataset for modeling.
 - Implemented three prediction model (Random Forest, XGBoost and CatBoost) using top-5 features and all features.
 - Compared the models on the basis of performance metrics (Accuracy, Recall, F1-Score and ROC-AUC).
