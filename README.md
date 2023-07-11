@@ -1,7 +1,7 @@
 # British Airways DS Virtual Internship Programme
 ![image](https://user-images.githubusercontent.com/68168071/208015626-505dc939-4551-4ccc-a60e-18827d60bf66.png)
 
-Enrolled in 'Data Science Virtual Experience Programme' by British Airways with affiliation to 'Forage Australia'. Worked on a business problem statement to gain company insights and understanding factors influencing the buying behaviour of customers with 'British Airways Reviews Dataset' by implementing Exploratory Data Analysis (EDA), Web-Scraping, Sentiment Analysis, Data Modeling, Model Building and Interpretation, Machine Learning Production & Quality Assurance. 
+Enrolled in 'Data Science Virtual Experience Programme' by British Airways with affiliation to 'Forage Australia'. Worked on a business problem statement to gain company insights and understanding factors influencing the buying behaviour of customers with British Airways reviews and customer dataset by implementing Exploratory Data Analysis (EDA), Web-Scraping, Sentiment Analysis, Data Modeling, Model Building and Interpretation, Machine Learning Production & Quality Assurance. 
 
 For British Airways Reviews Dataset, please refer this link: https://www.airlinequality.com/airline-reviews/british-airways 
 
