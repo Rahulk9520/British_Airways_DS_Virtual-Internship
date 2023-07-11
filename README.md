@@ -3,8 +3,15 @@
 
 Enrolled in 'Data Science Virtual Experience Programme' by British Airways with affiliation to 'Forage Australia'. Worked on a business problem statement to gain company insights and understanding factors influencing the buying behaviour of customers with 'British Airways Reviews Dataset' by implementing Exploratory Data Analysis (EDA), Web-Scraping, Sentiment Analysis, Data Modeling, Model Building and Interpretation, Machine Learning Production & Quality Assurance. 
 
-# Task 1: Web Scraping and Data Analysis (British Airways Reviews)
+## Task 1: Web Scraping and Data Analysis (British Airways Reviews)
 - Implemented web scraping using BeautifulSoup.
 - Performed exploratory data analysis and data cleaning to understand the behaviour of the dataset.
 - Performed sentiment analysis of customer reviews using NLTK to understand positive, negative and neutral reviews.
 - Prepared a powerpoint representation to highlight our insights and analysis.
+
+## Task 2: Predicting customer's buying behaviour 
+- Performed exploratory data analysis and data cleaning to understand the behaviour of 'customer_booking' dataset
+- Performed feature selection using Random Forest and L2-regularization (Ridge) method to check relevant features in the dataset for modeling.
+- Implemented three prediction model (Random Forest, XGBoost and CatBoost) using top-5 features and all features.
+- Compared the models on the basis of performance metrics (Accuracy, Recall, F1-Score and ROC-AUC).
+- Prepared a powerpoint presentation to showcase factors influencing buying behavior and prediction model results. 
